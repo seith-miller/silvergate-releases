@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4",
-  "apk": "silvergate-camtest-0.4.apk",
-  "sha256": "346c94a967cb69a44f7d559add737076d4f1606bee941122f273dbade34ff1a4",
-  "notes": "Adds a REC button and a Rolls page. Each take lands on a 100 ft roll in the Silvergate roll format; share a roll as a zip for the Mac."
+  "versionCode": 5,
+  "versionName": "0.5",
+  "apk": "silvergate-camtest-0.5.apk",
+  "sha256": "ac2efa1ad04f8da68502aa1617c31ebf0b92a4db1c866087317bdbeee218ebeb",
+  "notes": "Adds the cutting room: develop a roll, then mark, splice, reorder, play the reel, lock the cut and share the cut list."
 }
