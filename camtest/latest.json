@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3",
-  "apk": "silvergate-camtest-0.3.apk",
-  "sha256": "99596bcb6d7f7020067d3fa2661e92d4ebeaf9de46ce1c2d7475252f69637db3",
-  "notes": "Adds self-update. Keeps the 0.2 tests: 24 fps three ways, stabilization off, every back lens."
+  "versionCode": 4,
+  "versionName": "0.4",
+  "apk": "silvergate-camtest-0.4.apk",
+  "sha256": "346c94a967cb69a44f7d559add737076d4f1606bee941122f273dbade34ff1a4",
+  "notes": "Adds a REC button and a Rolls page. Each take lands on a 100 ft roll in the Silvergate roll format; share a roll as a zip for the Mac."
 }
