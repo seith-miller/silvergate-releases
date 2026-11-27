@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9",
-  "apk": "silvergate-camtest-0.9.apk",
-  "sha256": "bdf8e63e4d66b6125fc30160bf0a4f0e624cbb830bad1c87222aaead3ff66b7a",
-  "notes": "Gear at top right holds ISO, frame rate and updates. ISO and frame rate are set per roll. Play the last take from the camera screen. Playback problems are reported."
+  "versionCode": 10,
+  "versionName": "0.10",
+  "apk": "silvergate-camtest-0.10.apk",
+  "sha256": "d7d03adfc18963e1b5255000670d645a2c3369b882ddde0b71cfecee7f5d86e9",
+  "notes": "Landscape camera. Academy frame in the centre. Shutter angle on the left, up to 180 degrees. Focus on the right."
 }
