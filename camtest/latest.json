@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20",
-  "apk": "silvergate-camtest-0.20.apk",
-  "sha256": "b8b0b36842858f8c57e5bbbbab82d09b44ae2f93a75320bc453c8bf2f9eb0ede",
-  "notes": "Camera review: swipe up or down to scrub the film with its sound, and a play backwards button. New roll on the Rolls page."
+  "versionCode": 21,
+  "versionName": "0.21",
+  "apk": "silvergate-camtest-0.21.apk",
+  "sha256": "64d5f58745e1cba276bac8dfaa447133c551a2a8a22b491f588e8fb921fe51f1",
+  "notes": "Mic button: level meter, listen on headphones, compression and EQ for the optical track. Edit: gain per clip and an Output button with the same effects over every clip. Roll button: name and note the roll in the camera."
 }
