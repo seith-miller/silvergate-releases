@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.33",
-  "apk": "silvergate-camtest-0.33.apk",
-  "sha256": "ee901465dd4cbf84e50558fc1618999f78cc9777963960dfde7964f3f21b93cb",
-  "notes": "Edit: Insert has Leader, plain frames of any shade from black through grey to white, silent, at the playhead."
+  "versionCode": 34,
+  "versionName": "0.34",
+  "apk": "silvergate-camtest-0.34.apk",
+  "sha256": "a4fa64834e0b905575d2cbd7fb3bb8af91d6135a540d14472290fccf5d1bf8f4",
+  "notes": "Print on the Edit page: render the edit to one video file (MP4 or WebM) with presets, size, frame rate, range, framing, sound and file settings"
 }
