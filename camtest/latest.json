@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.13",
-  "apk": "silvergate-camtest-0.13.apk",
-  "sha256": "f5625cfc0af5f741e618018b57793625d0e52c47073465069b7ac7fb0ca21ff8",
-  "notes": "Fills the whole screen on every page: no status or navigation bar, black edges, no grey bars."
+  "versionCode": 14,
+  "versionName": "0.14",
+  "apk": "silvergate-camtest-0.14.apk",
+  "sha256": "9bb35cea7cdfd2acde54883a2caefeb520c7982fcceda92a02c66753eacc49c7",
+  "notes": "Review button always on the camera screen; it says why when there is nothing to play."
 }
