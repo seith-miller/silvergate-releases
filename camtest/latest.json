@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "0.29",
-  "apk": "silvergate-camtest-0.29.apk",
-  "sha256": "0802cf5a85cea352eca4580f655f7479eb3d89c83ac5213eae98417a999e5ba5",
-  "notes": "File and Settings on every page. File: New, Open, Save, Share project. Insert at the playhead. Cut on any frame, Splice at a join. One Live button. Infinity focus shows the symbol."
+  "versionCode": 30,
+  "versionName": "0.30",
+  "apk": "silvergate-camtest-0.30.apk",
+  "sha256": "9803eb20d8ef1bc0929c55eaefb1f26c1947de64b5ccb60728195d23cec8a79c",
+  "notes": "Shutter angle goes down to 0. At 0 the shutter is closed and the frames are black."
 }
