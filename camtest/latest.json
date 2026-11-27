@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "0.19",
-  "apk": "silvergate-camtest-0.19.apk",
-  "sha256": "97969f65999361700e0b9475cf49a956d5ae8d0d4e176926277efe055435a9a9",
-  "notes": "New roll on the Rolls page: pick name, stock, speed and length; it goes into the camera in the project's gauge."
+  "versionCode": 20,
+  "versionName": "0.20",
+  "apk": "silvergate-camtest-0.20.apk",
+  "sha256": "b8b0b36842858f8c57e5bbbbab82d09b44ae2f93a75320bc453c8bf2f9eb0ede",
+  "notes": "Camera review: swipe up or down to scrub the film with its sound, and a play backwards button. New roll on the Rolls page."
 }
