@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.32",
-  "apk": "silvergate-camtest-0.32.apk",
-  "sha256": "e5382863a8304c92304522410f49fc43e279dbf855b0524342a1c5d7330671ba",
-  "notes": "Camera page: rewind, play back, play, fast forward and a scrub bar under the picture whenever a roll is in. Tap the time code at the top to type one and jump there."
+  "versionCode": 33,
+  "versionName": "0.33",
+  "apk": "silvergate-camtest-0.33.apk",
+  "sha256": "ee901465dd4cbf84e50558fc1618999f78cc9777963960dfde7964f3f21b93cb",
+  "notes": "Edit: Insert has Leader, plain frames of any shade from black through grey to white, silent, at the playhead."
 }
