@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6",
-  "apk": "silvergate-camtest-0.6.apk",
-  "sha256": "558865f1eb18ae4d311249356be87d995466b4993afe6da10ef018b50e11cc44",
-  "notes": "Fixes the crash when leaving the camera. Main lens only, less text. If it ever crashes, it offers a report to share."
+  "versionCode": 7,
+  "versionName": "0.7",
+  "apk": "silvergate-camtest-0.7.apk",
+  "sha256": "f9b175ac24db689669467778b400d62334cc5cf2ecd7a5fd2f3c0ffe557389c6",
+  "notes": "Films like Fomapan Cine 100: its colour response, curve and grain. White balance stays on daylight."
 }
