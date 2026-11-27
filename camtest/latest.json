@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21",
-  "apk": "silvergate-camtest-0.21.apk",
-  "sha256": "64d5f58745e1cba276bac8dfaa447133c551a2a8a22b491f588e8fb921fe51f1",
-  "notes": "Mic button: level meter, listen on headphones, compression and EQ for the optical track. Edit: gain per clip and an Output button with the same effects over every clip. Roll button: name and note the roll in the camera."
+  "versionCode": 22,
+  "versionName": "0.22",
+  "apk": "silvergate-camtest-0.22.apk",
+  "sha256": "6b4e44c5ef93cfa48e02fad7840bf43ed6c50677f62c4289099b21c38b15d663",
+  "notes": "Camera page shows only the frame count over the picture; picture back to full size; perforations and sound track sit in the margins beside it."
 }
