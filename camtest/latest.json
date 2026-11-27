@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.27",
-  "apk": "silvergate-camtest-0.27.apk",
-  "sha256": "56fe93acc25d388d864b8f6dc3d2225e8a0e0e88e2667982e8013b52ccb9b923",
-  "notes": "File and Settings on every page (File saves or shares the whole project); Edit's Load is now Insert, always at the playhead."
+  "versionCode": 28,
+  "versionName": "0.28",
+  "apk": "silvergate-camtest-0.28.apk",
+  "sha256": "27cf77c1010773cac1f15b422ea16385070830f28ab4ba7acf852e16fbf118c1",
+  "notes": "File is a file icon beside Settings on every page; one Live button in review; infinity focus shows the infinity sign; Edit inserts at the playhead."
 }
