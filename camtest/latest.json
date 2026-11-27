@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8",
-  "apk": "silvergate-camtest-0.8.apk",
-  "sha256": "a2ab1966322e30fb1ba4ff9ba8417122bdd95c99f6c37dbd3a2c7571a7ace5c8",
-  "notes": "Focus and exposure are always manual, and you can change them while recording."
+  "versionCode": 9,
+  "versionName": "0.9",
+  "apk": "silvergate-camtest-0.9.apk",
+  "sha256": "bdf8e63e4d66b6125fc30160bf0a4f0e624cbb830bad1c87222aaead3ff66b7a",
+  "notes": "Gear at top right holds ISO, frame rate and updates. ISO and frame rate are set per roll. Play the last take from the camera screen. Playback problems are reported."
 }
