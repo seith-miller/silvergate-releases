@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.16",
-  "apk": "silvergate-camtest-0.16.apk",
-  "sha256": "aecf41d8c9a3d42f20b0ef7dc980e0a3180504f299acb0b7ff34f06c52aba59a",
-  "notes": "Three pages rebuilt: wind to any frame and double expose on the Camera page with moving perforations and sound; names and notes on Rolls; a flatbed Edit page with counter clips and optical sound with diagonal cuts."
+  "versionCode": 17,
+  "versionName": "0.17",
+  "apk": "silvergate-camtest-0.17.apk",
+  "sha256": "a9a36313ddc3de26f0fd8d3911970e274e7d114d0c2a63a78dbcd39ab84c4c90",
+  "notes": "Projects with a fixed gauge; the film drawn to 16 mm standard dimensions with its optical sound beside the gate; smoother Edit playback."
 }
