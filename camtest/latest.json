@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "0.26",
-  "apk": "silvergate-camtest-0.26.apk",
-  "sha256": "521733999628e309d4a45e6767ad40040d8cf90853a6b99645527eebde0431f4",
-  "notes": "File and Settings at the top left of Camera, Rolls and Edit; File saves or shares the whole project."
+  "versionCode": 27,
+  "versionName": "0.27",
+  "apk": "silvergate-camtest-0.27.apk",
+  "sha256": "56fe93acc25d388d864b8f6dc3d2225e8a0e0e88e2667982e8013b52ccb9b923",
+  "notes": "File and Settings on every page (File saves or shares the whole project); Edit's Load is now Insert, always at the playhead."
 }
