@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.22",
-  "apk": "silvergate-camtest-0.22.apk",
-  "sha256": "6b4e44c5ef93cfa48e02fad7840bf43ed6c50677f62c4289099b21c38b15d663",
-  "notes": "Camera page shows only the frame count over the picture; picture back to full size; perforations and sound track sit in the margins beside it."
+  "versionCode": 23,
+  "versionName": "0.23",
+  "apk": "silvergate-camtest-0.23.apk",
+  "sha256": "bcde58a769d3c90ee5082c86588d49b07b9ed4855ab7f5d21e9350e6c746856b",
+  "notes": "Perforations and sound track always show beside the picture; the picture gives up a thin strip each side for them."
 }
