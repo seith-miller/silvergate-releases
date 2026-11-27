@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.25",
-  "apk": "silvergate-camtest-0.25.apk",
-  "sha256": "4b2f30688aa688615bba530e5cad1e49a080d19a0dafc8f3c60312f1d810e636",
-  "notes": "Frame count centred over the film window; white when paused, red while recording."
+  "versionCode": 26,
+  "versionName": "0.26",
+  "apk": "silvergate-camtest-0.26.apk",
+  "sha256": "521733999628e309d4a45e6767ad40040d8cf90853a6b99645527eebde0431f4",
+  "notes": "File and Settings at the top left of Camera, Rolls and Edit; File saves or shares the whole project."
 }
