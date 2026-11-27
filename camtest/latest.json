@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7",
-  "apk": "silvergate-camtest-0.7.apk",
-  "sha256": "f9b175ac24db689669467778b400d62334cc5cf2ecd7a5fd2f3c0ffe557389c6",
-  "notes": "Films like Fomapan Cine 100: its colour response, curve and grain. White balance stays on daylight."
+  "versionCode": 8,
+  "versionName": "0.8",
+  "apk": "silvergate-camtest-0.8.apk",
+  "sha256": "a2ab1966322e30fb1ba4ff9ba8417122bdd95c99f6c37dbd3a2c7571a7ace5c8",
+  "notes": "Focus and exposure are always manual, and you can change them while recording."
 }
