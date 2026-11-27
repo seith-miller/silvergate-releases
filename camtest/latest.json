@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.17",
-  "apk": "silvergate-camtest-0.17.apk",
-  "sha256": "a9a36313ddc3de26f0fd8d3911970e274e7d114d0c2a63a78dbcd39ab84c4c90",
-  "notes": "Projects with a fixed gauge; the film drawn to 16 mm standard dimensions with its optical sound beside the gate; smoother Edit playback."
+  "versionCode": 18,
+  "versionName": "0.18",
+  "apk": "silvergate-camtest-0.18.apk",
+  "sha256": "e811c0db84f2c6a5e82e9243f3db7134811239bf22c69ab03da8b9ad7b4a7bbb",
+  "notes": "Sound plays backwards when the film runs backwards: tap the wind buttons to wind with sound, hold them (or the step buttons on Edit) to run at speed either way. Asks for the microphone. Delete clips and rolls."
 }
