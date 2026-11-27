@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.14",
-  "apk": "silvergate-camtest-0.14.apk",
-  "sha256": "9bb35cea7cdfd2acde54883a2caefeb520c7982fcceda92a02c66753eacc49c7",
-  "notes": "Review button always on the camera screen; it says why when there is nothing to play."
+  "versionCode": 15,
+  "versionName": "0.15",
+  "apk": "silvergate-camtest-0.15.apk",
+  "sha256": "0805fe5cfbc2d492f9547aaf9df0da8c086cfd1363cfb083c2e48e6ca844cde3",
+  "notes": "Three pages, Camera, Rolls and Edit, with the same buttons on each. Rolls: copy and develop. Load and unload with Roll on the Camera page. Edit: cut, name and splice clips."
 }
