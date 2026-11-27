@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.23",
-  "apk": "silvergate-camtest-0.23.apk",
-  "sha256": "bcde58a769d3c90ee5082c86588d49b07b9ed4855ab7f5d21e9350e6c746856b",
-  "notes": "Perforations and sound track always show beside the picture; the picture gives up a thin strip each side for them."
+  "versionCode": 24,
+  "versionName": "0.24",
+  "apk": "silvergate-camtest-0.24.apk",
+  "sha256": "110ec8aaac2b36c404c8866d9053f8fb6d279133e5af4bf7ccb8037a1a28a024",
+  "notes": "Microphone icon and a File menu (Save, Share the roll) in the top left of the camera page."
 }
