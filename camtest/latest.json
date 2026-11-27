@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.10",
-  "apk": "silvergate-camtest-0.10.apk",
-  "sha256": "d7d03adfc18963e1b5255000670d645a2c3369b882ddde0b71cfecee7f5d86e9",
-  "notes": "Landscape camera. Academy frame in the centre. Shutter angle on the left, up to 180 degrees. Focus on the right."
+  "versionCode": 11,
+  "versionName": "0.11",
+  "apk": "silvergate-camtest-0.11.apk",
+  "sha256": "2b75883f4ff1f1867a6cef81ce7a3daaa6222ffb50b01a276b9c9a9fd0466c2b",
+  "notes": "All screens landscape. Pick the lens under the gear. Review the roll on the camera screen: play, rewind, fast forward. Viewing is black and white; recordings stay in colour. Rolls can go back in, and can be any length."
 }
