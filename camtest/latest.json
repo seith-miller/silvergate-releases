@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "0.31",
-  "apk": "silvergate-camtest-0.31.apk",
-  "sha256": "4f1efbc64266325fd898de263ef3819067b02481a5e820dfb77cdae42a8262cc",
-  "notes": "Mic chain: input volume, compression, EQ, output volume. Meter has a Pre/Post switch. Shutter angle goes down to 0 (closed). Edit: Name button removed (long press a clip to name it)."
+  "versionCode": 32,
+  "versionName": "0.32",
+  "apk": "silvergate-camtest-0.32.apk",
+  "sha256": "e5382863a8304c92304522410f49fc43e279dbf855b0524342a1c5d7330671ba",
+  "notes": "Camera page: rewind, play back, play, fast forward and a scrub bar under the picture whenever a roll is in. Tap the time code at the top to type one and jump there."
 }
