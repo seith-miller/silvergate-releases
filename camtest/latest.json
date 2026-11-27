@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.28",
-  "apk": "silvergate-camtest-0.28.apk",
-  "sha256": "27cf77c1010773cac1f15b422ea16385070830f28ab4ba7acf852e16fbf118c1",
-  "notes": "File is a file icon beside Settings on every page; one Live button in review; infinity focus shows the infinity sign; Edit inserts at the playhead."
+  "versionCode": 29,
+  "versionName": "0.29",
+  "apk": "silvergate-camtest-0.29.apk",
+  "sha256": "0802cf5a85cea352eca4580f655f7479eb3d89c83ac5213eae98417a999e5ba5",
+  "notes": "File and Settings on every page. File: New, Open, Save, Share project. Insert at the playhead. Cut on any frame, Splice at a join. One Live button. Infinity focus shows the symbol."
 }
