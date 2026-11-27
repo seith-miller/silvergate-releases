@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.18",
-  "apk": "silvergate-camtest-0.18.apk",
-  "sha256": "e811c0db84f2c6a5e82e9243f3db7134811239bf22c69ab03da8b9ad7b4a7bbb",
-  "notes": "Sound plays backwards when the film runs backwards: tap the wind buttons to wind with sound, hold them (or the step buttons on Edit) to run at speed either way. Asks for the microphone. Delete clips and rolls."
+  "versionCode": 19,
+  "versionName": "0.19",
+  "apk": "silvergate-camtest-0.19.apk",
+  "sha256": "97969f65999361700e0b9475cf49a956d5ae8d0d4e176926277efe055435a9a9",
+  "notes": "New roll on the Rolls page: pick name, stock, speed and length; it goes into the camera in the project's gauge."
 }
