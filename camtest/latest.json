@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.11",
-  "apk": "silvergate-camtest-0.11.apk",
-  "sha256": "2b75883f4ff1f1867a6cef81ce7a3daaa6222ffb50b01a276b9c9a9fd0466c2b",
-  "notes": "All screens landscape. Pick the lens under the gear. Review the roll on the camera screen: play, rewind, fast forward. Viewing is black and white; recordings stay in colour. Rolls can go back in, and can be any length."
+  "versionCode": 12,
+  "versionName": "0.12",
+  "apk": "silvergate-camtest-0.12.apk",
+  "sha256": "a7aada5f400dd9e1543ca56575d7703ee11f327cbdd5736d3c05681cd15394ca",
+  "notes": "Tap the shutter or focus number to type an exact value. Lock shutter and focus under the gear."
 }
