@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24",
-  "apk": "silvergate-camtest-0.24.apk",
-  "sha256": "110ec8aaac2b36c404c8866d9053f8fb6d279133e5af4bf7ccb8037a1a28a024",
-  "notes": "Microphone icon and a File menu (Save, Share the roll) in the top left of the camera page."
+  "versionCode": 25,
+  "versionName": "0.25",
+  "apk": "silvergate-camtest-0.25.apk",
+  "sha256": "4b2f30688aa688615bba530e5cad1e49a080d19a0dafc8f3c60312f1d810e636",
+  "notes": "Frame count centred over the film window; white when paused, red while recording."
 }
