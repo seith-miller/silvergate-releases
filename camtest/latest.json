@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.15",
-  "apk": "silvergate-camtest-0.15.apk",
-  "sha256": "0805fe5cfbc2d492f9547aaf9df0da8c086cfd1363cfb083c2e48e6ca844cde3",
-  "notes": "Three pages, Camera, Rolls and Edit, with the same buttons on each. Rolls: copy and develop. Load and unload with Roll on the Camera page. Edit: cut, name and splice clips."
+  "versionCode": 16,
+  "versionName": "0.16",
+  "apk": "silvergate-camtest-0.16.apk",
+  "sha256": "aecf41d8c9a3d42f20b0ef7dc980e0a3180504f299acb0b7ff34f06c52aba59a",
+  "notes": "Three pages rebuilt: wind to any frame and double expose on the Camera page with moving perforations and sound; names and notes on Rolls; a flatbed Edit page with counter clips and optical sound with diagonal cuts."
 }
