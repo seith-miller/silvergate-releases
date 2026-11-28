@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "0.40",
-  "apk": "silvergate-camtest-0.40.apk",
-  "sha256": "59f59045398838e5cdfa57c7b5dbdfcb8a15ddb0e0fcd04cb87defb15120bee4",
-  "notes": "Smoother playback."
+  "versionCode": 41,
+  "versionName": "0.41",
+  "apk": "silvergate-camtest-0.41.apk",
+  "sha256": "7d80d06f452201cb189d3eecca1138d5a710a773f861f1ebb6d729310bfc1a7c",
+  "notes": "Two more stocks: Ortho 100 and ORWO N 74 Plus 400 (panchromatic)."
 }
