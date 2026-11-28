@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "0.39",
-  "apk": "silvergate-camtest-0.39.apk",
-  "sha256": "3afc8feec2a8a78029bf80c85f53a900741c41a95f55d207429c985b20427617",
-  "notes": "Fix: a take started with the shutter closed now opens fully when you fade it up."
+  "versionCode": 40,
+  "versionName": "0.40",
+  "apk": "silvergate-camtest-0.40.apk",
+  "sha256": "59f59045398838e5cdfa57c7b5dbdfcb8a15ddb0e0fcd04cb87defb15120bee4",
+  "notes": "Smoother playback."
 }
