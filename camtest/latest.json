@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "0.38",
-  "apk": "silvergate-camtest-0.38.apk",
-  "sha256": "d8245e76bb1d1044190d1d44eaa656ebaad102a8c0c98375361010d175b7264b",
-  "notes": "Rewind, play backwards, play and fast forward are back in Review."
+  "versionCode": 39,
+  "versionName": "0.39",
+  "apk": "silvergate-camtest-0.39.apk",
+  "sha256": "3afc8feec2a8a78029bf80c85f53a900741c41a95f55d207429c985b20427617",
+  "notes": "Fix: a take started with the shutter closed now opens fully when you fade it up."
 }
