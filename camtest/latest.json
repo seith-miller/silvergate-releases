@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "0.46",
-  "apk": "silvergate-camtest-0.46.apk",
-  "sha256": "62fc9206c227573212011d9d0872dca155b495801f6d8660d75f93782d82e98d",
-  "notes": "Mark + opens a dialog: shutter, focus and transition time."
+  "versionCode": 47,
+  "versionName": "0.47",
+  "apk": "silvergate-camtest-0.47.apk",
+  "sha256": "10cd6f24fee084b447d43afebcb15936ae1b86a2c6b8a1d4376383298aca3384",
+  "notes": "Frame rate is a camera setting in the gear, changeable between takes."
 }
