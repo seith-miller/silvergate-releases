@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.35",
-  "apk": "silvergate-camtest-0.35.apk",
-  "sha256": "a3f3376d802b9861cf8b682b1d5911ffe1001ea28a349df15fb61b25e5066e6b",
-  "notes": "Camera: swipe the perforations on the left to wind the film; transport row and second counter removed; tap the picture in Review to play"
+  "versionCode": 36,
+  "versionName": "0.36",
+  "apk": "silvergate-camtest-0.36.apk",
+  "sha256": "2c160f529374528603e1eee6eac6eb1bc1fa1db6964247748b49dc7af328ba5a",
+  "notes": "Two new stocks: Foma Cine Ortho 400 and Kodak Vision3 500T (colour). Fix: opening the shutter during a take that started closed."
 }
