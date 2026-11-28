@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "0.37",
-  "apk": "silvergate-camtest-0.37.apk",
-  "sha256": "595a2110f246849f12ef73f44b2931738114c638d70a894ac41882de9b23f936",
-  "notes": "The stock picker now shows in the gear with a roll loaded. Kodak Vision3 500T shoots colour."
+  "versionCode": 38,
+  "versionName": "0.38",
+  "apk": "silvergate-camtest-0.38.apk",
+  "sha256": "d8245e76bb1d1044190d1d44eaa656ebaad102a8c0c98375361010d175b7264b",
+  "notes": "Rewind, play backwards, play and fast forward are back in Review."
 }
