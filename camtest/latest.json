@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "0.42",
-  "apk": "silvergate-camtest-0.42.apk",
-  "sha256": "65c0bf8f227cf2b100747a317b200666f33e768c72f16be7ef9c199218f37459",
-  "notes": "Stock names: B&W or C, ISO, make, model."
+  "versionCode": 43,
+  "versionName": "0.43",
+  "apk": "silvergate-camtest-0.43.apk",
+  "sha256": "49542589d8ab2841f84471ae22cbdc9442df2cbebd70e23a3288e92d27b31de3",
+  "notes": "Vision3 50D stock; Pages button with Review as its own page; smooth, longer shutter slider."
 }
