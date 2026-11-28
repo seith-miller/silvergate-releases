@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.36",
-  "apk": "silvergate-camtest-0.36.apk",
-  "sha256": "2c160f529374528603e1eee6eac6eb1bc1fa1db6964247748b49dc7af328ba5a",
-  "notes": "Two new stocks: Foma Cine Ortho 400 and Kodak Vision3 500T (colour). Fix: opening the shutter during a take that started closed."
+  "versionCode": 37,
+  "versionName": "0.37",
+  "apk": "silvergate-camtest-0.37.apk",
+  "sha256": "595a2110f246849f12ef73f44b2931738114c638d70a894ac41882de9b23f936",
+  "notes": "The stock picker now shows in the gear with a roll loaded. Kodak Vision3 500T shoots colour."
 }
