@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "0.45",
-  "apk": "silvergate-camtest-0.45.apk",
-  "sha256": "1f72b78e1579154c017439879672691031f118a2b63e00c63d9f18f7ec3c2c31",
-  "notes": "Mark + beside the Pages button; marks across the bottom."
+  "versionCode": 46,
+  "versionName": "0.46",
+  "apk": "silvergate-camtest-0.46.apk",
+  "sha256": "62fc9206c227573212011d9d0872dca155b495801f6d8660d75f93782d82e98d",
+  "notes": "Mark + opens a dialog: shutter, focus and transition time."
 }
