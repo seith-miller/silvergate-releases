@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "0.41",
-  "apk": "silvergate-camtest-0.41.apk",
-  "sha256": "7d80d06f452201cb189d3eecca1138d5a710a773f861f1ebb6d729310bfc1a7c",
-  "notes": "Two more stocks: Ortho 100 and ORWO N 74 Plus 400 (panchromatic)."
+  "versionCode": 42,
+  "versionName": "0.42",
+  "apk": "silvergate-camtest-0.42.apk",
+  "sha256": "65c0bf8f227cf2b100747a317b200666f33e768c72f16be7ef9c199218f37459",
+  "notes": "Stock names: B&W or C, ISO, make, model."
 }
