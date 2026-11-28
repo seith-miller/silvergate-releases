@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "0.43",
-  "apk": "silvergate-camtest-0.43.apk",
-  "sha256": "49542589d8ab2841f84471ae22cbdc9442df2cbebd70e23a3288e92d27b31de3",
-  "notes": "Vision3 50D stock; Pages button with Review as its own page; smooth, longer shutter slider."
+  "versionCode": 44,
+  "versionName": "0.44",
+  "apk": "silvergate-camtest-0.44.apk",
+  "sha256": "94f557e4d376d086d887d96d18a0571106c40054e02faa160ad55281ff3c82de",
+  "notes": "Marks: Mark + saves shutter and focus; tap a mark to glide to it over its transition time."
 }
